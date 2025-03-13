@@ -630,7 +630,7 @@ PlayerSettings:
   webGLTemplate: APPLICATION:Default
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
-  webGLCompressionFormat: 1
+  webGLCompressionFormat: 2
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
@@ -687,8 +687,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: KD_Lighting_And_Post-processing
-  metroPackageVersion: 
+  metroPackageName: KDLightingAndPost-processing
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -696,7 +696,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: KD_Lighting_And_Post-processing
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: KD_Lighting_And_Post-processing
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
